@@ -1,0 +1,16 @@
+C:\Users\Jakub\sciezka_w_informatyce\bin\Debug\net11.0\sciezka_w_informatyce.exe
+C:\Users\Jakub\sciezka_w_informatyce\bin\Debug\net11.0\sciezka_w_informatyce.deps.json
+C:\Users\Jakub\sciezka_w_informatyce\bin\Debug\net11.0\sciezka_w_informatyce.runtimeconfig.json
+C:\Users\Jakub\sciezka_w_informatyce\bin\Debug\net11.0\sciezka_w_informatyce.runtimeconfig.dev.json
+C:\Users\Jakub\sciezka_w_informatyce\bin\Debug\net11.0\sciezka_w_informatyce.dll
+C:\Users\Jakub\sciezka_w_informatyce\bin\Debug\net11.0\sciezka_w_informatyce.pdb
+C:\Users\Jakub\sciezka_w_informatyce\obj\Debug\net11.0\sciezka_w_informatyce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\sciezka_w_informatyce\obj\Debug\net11.0\sciezka_w_informatyce.AssemblyInfoInputs.cache
+C:\Users\Jakub\sciezka_w_informatyce\obj\Debug\net11.0\sciezka_w_informatyce.AssemblyInfo.cs
+C:\Users\Jakub\sciezka_w_informatyce\obj\Debug\net11.0\sciezka_w_informatyce.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\sciezka_w_informatyce\obj\Debug\net11.0\sciezka_w_informatyce.dll
+C:\Users\Jakub\sciezka_w_informatyce\obj\Debug\net11.0\refint\sciezka_w_informatyce.dll
+C:\Users\Jakub\sciezka_w_informatyce\obj\Debug\net11.0\sciezka_w_informatyce.pdb
+C:\Users\Jakub\sciezka_w_informatyce\obj\Debug\net11.0\sciezka_w_informatyce.genruntimeconfig.cache
+C:\Users\Jakub\sciezka_w_informatyce\obj\Debug\net11.0\ref\sciezka_w_informatyce.dll
+C:\Users\Jakub\sciezka_w_informatyce\obj\Debug\net11.0\sciezka_.5B0C66AA.Up2Date
